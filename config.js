@@ -2,7 +2,7 @@
 // You never need to open index.html.
 window.ESTATE_CONFIG = {
   // From Supabase: Project Settings > API. See GO_LIVE.md, step 4.
-  SUPABASE_URL: 'https://qmhqzcydljeoxxephxsl.supabase.co/rest/v1/',        // looks like https://abcdefgh.supabase.co
+  SUPABASE_URL: 'https://qmhqzcydljeoxxephxsl.supabase.co',        // looks like https://abcdefgh.supabase.co
   SUPABASE_ANON_KEY: 'sb_publishable_hp_CaY8bK_zITNHn_EaSfw_zylcR0MQ',   // the long key labelled "anon public"
 
   // The levy for the year, in naira
